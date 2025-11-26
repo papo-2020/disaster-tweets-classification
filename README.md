@@ -24,7 +24,8 @@ Note: Both LSTM and GRU likely got stuck at the local minima and failed to produ
 
 ## Architecture
 
-**Approach:** Learned word embeddings and RNN
+**Approach:** 
+- Learned word embeddings and RNN
 
 **Models:**
 - Simple RNN (baseline)
